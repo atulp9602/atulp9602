@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atulp9602
-- 👀 I’m interested in developing fullstack projects
+- 👀 I’m interested to develop fullstack projects
 - 🌱 I’m currently learning nodejs
 
 <!---
