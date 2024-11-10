@@ -1,6 +1,6 @@
 👋 Hello, I'm Atul Patil!
 
-🚀 Frontend Developer | React Enthusiast | Web Development Wizard
+🚀 Frontend Developer | React Enthusiast
 
 🌐 Passionate about crafting seamless user experiences and turning ideas into elegant, functional websites. I thrive on challenges and stay focused on continuous learning.
 
